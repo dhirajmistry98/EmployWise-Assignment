@@ -16,7 +16,7 @@ This is a React application for user management, integrating with the Reqres API
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/employwise-app.git
+git clone https://github.com/dhirajmistry98/EmployWise-Assignment
 cd employwise-app
 ```
 
